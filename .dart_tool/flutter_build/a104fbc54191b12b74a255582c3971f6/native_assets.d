@@ -1,0 +1,1 @@
+ C:\\Users\\fyare\\Desktop\\LifeSocial\\.dart_tool\\flutter_build\\a104fbc54191b12b74a255582c3971f6\\native_assets.yaml: 

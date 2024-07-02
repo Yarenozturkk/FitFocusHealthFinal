@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-1.0.0-beta04-0 C:\Users\fyare\.gradle\caches\transforms-3\0ca6b70ae7148b28f4d2113da784b74e\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-java-1.0.0-beta04-1 C:\Users\fyare\.gradle\caches\transforms-3\c6905fe6d3b61ab35ed39ed7f6956c03\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-core-1.6.0-2 C:\Users\fyare\.gradle\caches\transforms-3\cea78362b1d1b6810147da2feb004fda\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-annotation-experimental-1.1.0-3 C:\Users\fyare\.gradle\caches\transforms-3\ed24cde694c097c52cbf8558bdfce4b0\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-main-4 C:\Users\fyare\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-5.0.2\android\src\main\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-release-5 C:\Users\fyare\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-5.0.2\android\src\release\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-pngs-6 C:\Users\fyare\Desktop\LifeSocial\build\connectivity_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-resValues-7 C:\Users\fyare\Desktop\LifeSocial\build\connectivity_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-rs-8 C:\Users\fyare\Desktop\LifeSocial\build\connectivity_plus\generated\res\rs\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-9 C:\Users\fyare\Desktop\LifeSocial\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-10 C:\Users\fyare\Desktop\LifeSocial\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-merged_res-11 C:\Users\fyare\Desktop\LifeSocial\build\connectivity_plus\intermediates\merged_res\release

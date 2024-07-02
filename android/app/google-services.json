@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "904567381515",
+    "firebase_url": "https://socialappmx-default-rtdb.firebaseio.com",
+    "project_id": "socialappmx",
+    "storage_bucket": "socialappmx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904567381515:android:705b7e046dc4d382b5f10e",
+        "android_client_info": {
+          "package_name": "com.lifesocial.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yswOVzi4kSaojZylgCGqYGklyeJ6HFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904567381515:android:22661f087bb19d10b5f10e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yswOVzi4kSaojZylgCGqYGklyeJ6HFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904567381515:android:af9b2fd051a0cf49b5f10e",
+        "android_client_info": {
+          "package_name": "com.example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yswOVzi4kSaojZylgCGqYGklyeJ6HFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904567381515:android:158e2fee17e6a097b5f10e",
+        "android_client_info": {
+          "package_name": "com.lifesocial.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yswOVzi4kSaojZylgCGqYGklyeJ6HFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904567381515:android:6ca3eb9f21b420b6b5f10e",
+        "android_client_info": {
+          "package_name": "com.social.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yswOVzi4kSaojZylgCGqYGklyeJ6HFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

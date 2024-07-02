@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-0 C:\Users\fyare\.gradle\caches\transforms-3\0ca6b70ae7148b28f4d2113da784b74e\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-1 C:\Users\fyare\.gradle\caches\transforms-3\c6905fe6d3b61ab35ed39ed7f6956c03\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-2 C:\Users\fyare\.gradle\caches\transforms-3\cea78362b1d1b6810147da2feb004fda\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-3 C:\Users\fyare\.gradle\caches\transforms-3\ed24cde694c097c52cbf8558bdfce4b0\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-main-4 C:\Users\fyare\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.1\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\fyare\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.1\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\Users\fyare\Desktop\LifeSocial\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\Users\fyare\Desktop\LifeSocial\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\Users\fyare\Desktop\LifeSocial\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\Users\fyare\Desktop\LifeSocial\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\Users\fyare\Desktop\LifeSocial\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\fyare\Desktop\LifeSocial\build\sqflite\intermediates\merged_res\release

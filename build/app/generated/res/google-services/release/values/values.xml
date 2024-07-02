@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://socialappmx-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">904567381515</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8yswOVzi4kSaojZylgCGqYGklyeJ6HFQ</string>
+    <string name="google_app_id" translatable="false">1:904567381515:android:705b7e046dc4d382b5f10e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8yswOVzi4kSaojZylgCGqYGklyeJ6HFQ</string>
+    <string name="google_storage_bucket" translatable="false">socialappmx.appspot.com</string>
+    <string name="project_id" translatable="false">socialappmx</string>
+</resources>
